@@ -149,7 +149,7 @@ export const portfolioData = {
       duration: "Oct 2025 - Feb 2026",
       desc: "IEEE International Conference (IC3ECSBHI), Greater Noida, India",
       image: "/projects/certificate.jpg",
-      link: "https://www.linkedin.com/in/kushagra-singh-bhadauria",
+      link: "https://github.com/Codykush/IEEE-Certificate",
     },
     {
       title: "Salesforce Developer Workshop: AI Builders Day",
