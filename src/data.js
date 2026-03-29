@@ -122,7 +122,7 @@ export const portfolioData = {
       note: "First Author • Greater Noida, India • Oct 2025 - Feb 2026",
       desc: "Published as first author on a machine learning-based disease detection framework focused on early Alzheimer’s disease detection.",
       image: "/projects/research.jpg",
-      link: "https://www.linkedin.com/in/kushagra-singh-bhadauria",
+
     },
     {
       title: "First Author || Presenting Author",
@@ -130,7 +130,7 @@ export const portfolioData = {
       duration: "Presented on 14th February 2026",
       desc: "Authored and presented a research paper on early Alzheimer's detection using ML at the GBU Auditorium. Successfully defended technical work during live Q&A with industry experts; officially published in IEEE Conference Proceedings.",
       image: "/projects/Photo.jpg",
-      link: "https://www.linkedin.com/in/kushagra-singh-bhadauria",
+ 
     },
   ],
 
