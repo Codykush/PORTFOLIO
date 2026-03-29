@@ -23,7 +23,7 @@ export const portfolioData = {
   phone: "6395248403",
   email: "codykush2k7@gmail.com",
   github: "https://github.com/Codykush",
-  linkedin: "https://www.linkedin.com/in/kushagra-singh-bhada~uria-862aa1287/",
+  linkedin: "https://www.linkedin.com/in/kushagra-singh-bhadauria-862aa1287/",
   leetcode: "https://leetcode.com/u/2023361009_kushagra/",
   resume: "/projects/resume.pdf",
 
