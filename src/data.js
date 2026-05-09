@@ -174,7 +174,7 @@ export const portfolioData = {
       duration: "Completed on 5th April 2025",
       desc: "Successfully completed the comprehensive Java Fundamentals coursework, focusing on core programming concepts, object-oriented principles, and Java syntax.",
       image: "/projects/oracle.jpg",
-      link: "https://www.linkedin.com/in/kushagra-singh-bhadauria-a37136408/,
+      link: "https://www.linkedin.com/in/kushagra-singh-bhadauria-a37136408/",
   ],
 
   services: [
