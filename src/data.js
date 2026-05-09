@@ -23,7 +23,7 @@ export const portfolioData = {
   phone: "6395248403",
   email: "codykush2k7@gmail.com",
   github: "https://github.com/Codykush",
-  linkedin: "https://www.linkedin.com/in/kushagra-singh-bhadauria-862aa1287/",
+  linkedin: "https://www.linkedin.com/in/kushagra-singh-bhadauria-a37136408/",
   leetcode: "https://leetcode.com/u/2023361009_kushagra/",
   resume: "/projects/resume.pdf",
 
@@ -165,24 +165,16 @@ export const portfolioData = {
       duration: "September 23 - 24, 2025",
       desc: "Participated as part of team 'TranspoTrackers' in the internal round of SIH 2025, contributing to innovative problem-solving and technical development.",
       image: "/projects/hackathon.jpg",
-      link: "https://www.linkedin.com/posts/kushagra-singh-bhadauria-862aa1287_smartindiahackathon-sih2025-shardauniversity-activity-7381005890033913856-aPlR",
+      link: "https://www.linkedin.com/in/kushagra-singh-bhadauria-a37136408/",
     },
-    {
-      title: "InVision for Beginners",
-      issuer: "Simplilearn SkillUp",
-      duration: "Completed on 3rd October 2025",
-      desc: "Mastered the basics of InVision for UI/UX prototyping, demonstrating a commitment to enhancing design workflow and interactive web development skills.",
-      image: "/projects/invision.jpg",
-      link: "https://www.linkedin.com/posts/kushagra-singh-bhadauria-862aa1287_ui-ux-design-using-invision-activity-7379754897979662336-7ItJ",
-    },
+    
     {
       title: "Java Fundamentals",
       issuer: "Oracle Academy (in collaboration with Sharda University)",
       duration: "Completed on 5th April 2025",
       desc: "Successfully completed the comprehensive Java Fundamentals coursework, focusing on core programming concepts, object-oriented principles, and Java syntax.",
       image: "/projects/oracle.jpg",
-      link: "https://www.linkedin.com/posts/kushagra-singh-bhadauria-862aa1287_oracle-activity-7329587522802458624-cDFZ",
-    },
+      link: "https://www.linkedin.com/in/kushagra-singh-bhadauria-a37136408/
   ],
 
   services: [
