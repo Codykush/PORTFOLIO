@@ -28,7 +28,8 @@ export const portfolioData = {
   resume: "/projects/resume.pdf",
 
   summary:
-    "Software Developer with a strong foundation in Data Structures & Algorithms and hands-on experience building responsive web applications using HTML, CSS, JavaScript, and React. Skilled in real-time systems, simulation-based projects, efficient logic, and state management. Proficient in Java, Git, UI/UX design, and modern frontend development. First author of an IEEE conference paper on machine learning-based disease detection.",
+summary:
+"Software Developer with a strong foundation in Data Structures & Algorithms and hands-on experience building responsive web applications using HTML, CSS, JavaScript, and React. Experienced in developing real-time and full-stack projects using Firebase, Spring Boot, MySQL, AWS, and AI integrations. Skilled in Java, Git, UI/UX design, problem solving, and modern web development. First author of an IEEE conference paper on machine learning-based disease detection.",
 
   quickLinks: [
     {
