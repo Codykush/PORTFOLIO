@@ -85,6 +85,16 @@ export const portfolioData = {
 
   projects: [
     {
+      title: "TastyByte",
+      tech: "React, JavaScript, Spring Boot, MySQL, AWS, Groq AI",
+      duration: "Aug 2026 - Sep 2026",
+      location: "Personal Project",
+      desc: "Built a full-stack food discovery platform with meal filtering, food comparisons, authentication, image management, and an AI food assistant. Deployed the frontend on Vercel and backend on AWS EC2 with MySQL on Amazon RDS.",
+      link: "https://github.com/Codykush/TastyyBite",
+      image: "/projects/tastybyte.jpg",
+    },
+
+    {
       title: "ArtisanConnect",
       tech: "HTML, CSS, JavaScript, Firebase",
       duration: "Aug 2025 - Sep 2025",
